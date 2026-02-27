@@ -1,0 +1,4 @@
+# 1.py 依赖：抓取携程房型页 UI 树（需 uiautomator2 才能抓到 WebView 内房型列表）
+uiautomator2>=3.0.0
+# 可选：用于对无价格套餐做截图裁剪 + OCR 补价格
+easyocr>=1.7.0
